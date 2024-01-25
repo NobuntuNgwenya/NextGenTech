@@ -24,6 +24,9 @@ h6,
     font-weight: 500 !important;
 }
 
+.about-description{
+    color: #FFFFFF;
+}
 .pt-6 {
     padding-top: 90px;
 }
